@@ -1,0 +1,739 @@
+[
+  {
+    "name": "アディカラー クラシックス ベッケンバウアー トラックパンツ（ジャージ）",
+    "model_code": "EEP85",
+    "article_code": "IP0421",
+    "price": {
+      "with_tax": "10,670",
+      "without_tax": "9700.000000",
+      "discount_type": "proper"
+    },
+    "url": "https://shop.adidas.jp/f/v2/web/pub/products/article/IP0421/",
+    "images": [
+      "https://shop.adidas.jp/photo/IP/IP0421/zz-IP0421-72-UmG7yCkJLl.jpg",
+      "https://shop.adidas.jp/photo/IP/IP0421/zz-IP0421-71-XJnUb3ckZF.jpg",
+      "https://shop.adidas.jp/photo/IP/IP0421/zz-IP0421-on_model-standard_view-h9AxHEXcWB.jpg",
+      "https://shop.adidas.jp/photo/IP/IP0421/zz-IP0421-on_model-back_view-Szw2LOClVU.jpg",
+      "https://shop.adidas.jp/photo/IP/IP0421/zz-IP0421-on_model-walking_view-ljAuqGj5jP.jpg",
+      "https://shop.adidas.jp/photo/IP/IP0421/zz-IP0421-3d_torso-front_center_view-IZ9yOghZTB.jpg",
+      "https://shop.adidas.jp/photo/IP/IP0421/zz-IP0421-on_model-detail_view_1-xGYCEXpGVx.jpg",
+      "https://shop.adidas.jp/photo/IP/IP0421/zz-IP0421-on_model-detail_view_2-YSsMAKOF8I.jpg"
+    ],
+    "breadcrumb": "メンズ / ウェア・服 / ボトムス / ジャージ / オリジナルス / ベッケンバウアー / アディカラー クラシック / アディカラー クラシックス ベッケンバウアー トラックパンツ（ジャージ）",
+    "breadcrumbs": [
+      {
+        "label": "メンズ",
+        "search_url": "https://shop.adidas.jp/item/?gender=mens"
+      },
+      {
+        "label": "ウェア・服",
+        "search_url": "https://shop.adidas.jp/item/?gender=mens\u0026category=wear"
+      },
+      {
+        "label": "ボトムス",
+        "search_url": "https://shop.adidas.jp/item/?gender=mens\u0026category=wear\u0026group=bottoms"
+      },
+      {
+        "label": "ジャージ",
+        "search_url": "https://shop.adidas.jp/item/?gender=mens\u0026category=wear\u0026group=bottoms\u0026type=jerseys"
+      },
+      {
+        "label": "オリジナルス",
+        "search_url": "https://shop.adidas.jp/item/?gender=mens\u0026brand=originals\u0026category=wear\u0026group=bottoms\u0026type=jerseys"
+      },
+      {
+        "label": "ベッケンバウアー",
+        "search_url": "https://shop.adidas.jp/item/?gender=mens\u0026brand=originals\u0026collection=beckenbauer\u0026category=wear\u0026group=bottoms\u0026type=jerseys"
+      },
+      {
+        "label": "アディカラー クラシック",
+        "search_url": "https://shop.adidas.jp/item/?gender=mens\u0026brand=originals\u0026collection=beckenbauer\u0026subcollection=adicolor_classic\u0026category=wear\u0026group=bottoms\u0026type=jerseys"
+      },
+      {
+        "label": "アディカラー クラシックス ベッケンバウアー トラックパンツ（ジャージ）",
+        "search_url": "https://shop.adidas.jp/model/EEP85/"
+      }
+    ],
+    "kws": "ウェア・服, ボトムス, ジャージ, パンツ, オリジナルス, ベッケンバウアー, アディカラー, クラシックス, アディカラー クラシック, リサイクル素材と再生可能素材, EEP85",
+    "categories": [
+      {
+        "label": "ウェア・服",
+        "link": "https://shop.adidas.jp/item/?category=wear"
+      },
+      {
+        "label": "ボトムス",
+        "link": "https://shop.adidas.jp/item/?group=bottoms"
+      },
+      {
+        "label": "ジャージ",
+        "link": "https://shop.adidas.jp/item/?type=jerseys"
+      },
+      {
+        "label": "パンツ",
+        "link": "https://shop.adidas.jp/item/?type=pants"
+      },
+      {
+        "label": "オリジナルス",
+        "link": "https://shop.adidas.jp/item/?brand=originals"
+      },
+      {
+        "label": "ベッケンバウアー",
+        "link": "https://shop.adidas.jp/item/?collection=beckenbauer"
+      },
+      {
+        "label": "アディカラー",
+        "link": "https://shop.adidas.jp/item/?collection=adicolor"
+      },
+      {
+        "label": "クラシックス",
+        "link": "https://shop.adidas.jp/item/?collection=classics"
+      },
+      {
+        "label": "アディカラー クラシック",
+        "link": "https://shop.adidas.jp/item/?subcollection=adicolor_classic"
+      },
+      {
+        "label": "リサイクル素材と再生可能素材",
+        "link": "https://shop.adidas.jp/item/?sustainable=recycled_and_renewable"
+      },
+      {
+        "label": "EEP85",
+        "link": "https://shop.adidas.jp/model/EEP85/"
+      }
+    ],
+    "size_choice": {
+      "available_size": "XS, S, M, L, XL, 2XL, 3XL",
+      "sense_of_the_size": "3.5"
+    },
+    "coordinates": [
+      {
+        "product_name": "スーパースター ADV / Superstar ADV",
+        "product_url": "https://shop.adidas.jp/products/GW6931",
+        "product_image": "https://shop.adidas.jp/photo/GW/GW6931/s-GW6931-standard-side_lateral_view.jpg",
+        "product_price": {
+          "with_tax": "14,300",
+          "without_tax": "13000.000000",
+          "discount_type": "proper"
+        }
+      },
+      {
+        "product_name": "アディカラー クラシックス ベッケンバウアー トラックトップ（ジャージ）",
+        "product_url": "https://shop.adidas.jp/products/IP0418",
+        "product_image": "https://shop.adidas.jp/photo/IP/IP0418/s-IP0418-72-7ht20vRoo2.jpg",
+        "product_price": {
+          "with_tax": "13,200",
+          "without_tax": "12000.000000",
+          "discount_type": "proper"
+        }
+      }
+    ],
+    "description": {
+      "title": "リサイクル\u0026再生可能素材をブレンドした、アーカイブスタイルのトラックパンツ。",
+      "general": "タイムレスなクラシックアイテムでスタイルを格上げ。アディダスのアーカイブモデルを復刻したこのアディカラー ベッケンバウアー トラックパンツは、伝説的なサッカー選手へのオマージュを込めたデザイン。身体を包み込むスリムフィットの作りで、刺しゅうのトレフォイルとスリーストライプスでアイコニックな懐かしいルックスを継承している。ソフトなコットン混紡素材を使用しているから、何度でもはきたくなること間違いなし。\u003cbr /\u003e\u003cbr /\u003eリサイクル素材と再生可能素材をブレンドした生地を70%以上使用したウェア。",
+      "breads": [
+        "スリムフィット",
+        "ドローコードが付いた伸縮性のウエスト",
+        "綿52% / ポリエステル48%（ピケ）",
+        "ジップ式フロントポケット",
+        "背面にウェルトポケット"
+      ]
+    },
+    "skus": [
+      {
+        "size_name": "XS",
+        "code": "",
+        "status": {
+          "is_stock": true,
+          "is_stock_store": false,
+          "is_sold_out": false
+        }
+      },
+      {
+        "size_name": "S",
+        "code": "",
+        "status": {
+          "is_stock": true,
+          "is_stock_store": false,
+          "is_sold_out": false
+        }
+      },
+      {
+        "size_name": "M",
+        "code": "",
+        "status": {
+          "is_stock": true,
+          "is_stock_store": false,
+          "is_sold_out": false
+        }
+      },
+      {
+        "size_name": "L",
+        "code": "",
+        "status": {
+          "is_stock": true,
+          "is_stock_store": false,
+          "is_sold_out": false
+        }
+      },
+      {
+        "size_name": "XL",
+        "code": "",
+        "status": {
+          "is_stock": true,
+          "is_stock_store": false,
+          "is_sold_out": false
+        }
+      },
+      {
+        "size_name": "2XL",
+        "code": "",
+        "status": {
+          "is_stock": true,
+          "is_stock_store": false,
+          "is_sold_out": false
+        }
+      },
+      {
+        "size_name": "3XL",
+        "code": "",
+        "status": {
+          "is_stock": true,
+          "is_stock_store": false,
+          "is_sold_out": false
+        }
+      }
+    ],
+    "size_charts": [
+      {
+        "size": "2XL",
+        "measurements": [
+          {
+            "type": "ウエスト",
+            "value": "83cm"
+          },
+          {
+            "type": "股下",
+            "value": "73cm"
+          },
+          {
+            "type": "股上",
+            "value": "32cm"
+          },
+          {
+            "type": "ヒップ",
+            "value": "112cm"
+          }
+        ]
+      },
+      {
+        "size": "3XL",
+        "measurements": [
+          {
+            "type": "ウエスト",
+            "value": "90cm"
+          },
+          {
+            "type": "股下",
+            "value": "73cm"
+          },
+          {
+            "type": "股上",
+            "value": "32cm"
+          },
+          {
+            "type": "ヒップ",
+            "value": "119cm"
+          }
+        ]
+      },
+      {
+        "size": "XS",
+        "measurements": [
+          {
+            "type": "ウエスト",
+            "value": "61cm"
+          },
+          {
+            "type": "股下",
+            "value": "72cm"
+          },
+          {
+            "type": "股上",
+            "value": "30cm"
+          },
+          {
+            "type": "ヒップ",
+            "value": "91cm"
+          }
+        ]
+      },
+      {
+        "size": "S",
+        "measurements": [
+          {
+            "type": "ウエスト",
+            "value": "64cm"
+          },
+          {
+            "type": "股下",
+            "value": "72cm"
+          },
+          {
+            "type": "股上",
+            "value": "30cm"
+          },
+          {
+            "type": "ヒップ",
+            "value": "93cm"
+          }
+        ]
+      },
+      {
+        "size": "M",
+        "measurements": [
+          {
+            "type": "ウエスト",
+            "value": "69cm"
+          },
+          {
+            "type": "股下",
+            "value": "72cm"
+          },
+          {
+            "type": "股上",
+            "value": "30cm"
+          },
+          {
+            "type": "ヒップ",
+            "value": "98cm"
+          }
+        ]
+      },
+      {
+        "size": "L",
+        "measurements": [
+          {
+            "type": "ウエスト",
+            "value": "71cm"
+          },
+          {
+            "type": "股下",
+            "value": "72cm"
+          },
+          {
+            "type": "股上",
+            "value": "31cm"
+          },
+          {
+            "type": "ヒップ",
+            "value": "101cm"
+          }
+        ]
+      },
+      {
+        "size": "XL",
+        "measurements": [
+          {
+            "type": "ヒップ",
+            "value": "106cm"
+          },
+          {
+            "type": "ウエスト",
+            "value": "76cm"
+          },
+          {
+            "type": "股下",
+            "value": "73cm"
+          },
+          {
+            "type": "股上",
+            "value": "31cm"
+          }
+        ]
+      }
+    ],
+    "review_count": "7",
+    "reviews": [
+      {
+        "author_name": "tomin23",
+        "date_published": "2024-04-04",
+        "body": "去年購入した『ベッケンバウアー』の同じカラー(ナイトインディゴ)と比べると生地も薄く ウエストゴム部分も安っぽくグレードダウンした感じです 物価高の影響でしょうか？毎年同じレベルの提供をお願いしたいと思います",
+        "best_rating": "5.0",
+        "rating_value": "2"
+      },
+      {
+        "author_name": "noumin",
+        "date_published": "2024-03-19",
+        "body": "ウエストがかなりのびるので1サイズ下げても楽に履けます。一方で尻周りがピタッとするシルエットなので、お尻が大きめだとタイツ感がでてしまいます。",
+        "best_rating": "5.0",
+        "rating_value": "3"
+      },
+      {
+        "author_name": "massa",
+        "date_published": "2024-03-24",
+        "body": "デザインが気に入り購入しました。綿混だからか内側の肌触りが癖になりそうです。サイズは身長170体重65で上下ともにＬサイズを選択。ジャストサイズよりややゆとりがあるくらい。大変満足しています。",
+        "best_rating": "5.0",
+        "rating_value": "5"
+      },
+      {
+        "author_name": "Pchantamatama",
+        "date_published": "2024-05-17",
+        "body": "初めてアディダスのオンラインで失敗した買い物だと思った。 他の方がレビューで記載していますが、前年のベッケンバウアージャージと作りが違う。 ウエストの部分が去年と変更になっており、以前と同サイズのLサイズを購入したが、緩くて紐をキツく結ばないとズボンが落ちてしまいます。2階建の家に住んでますが、階段からおりた時にはもうズボンが既に落ちてました。 このパンツを買うなら絶対に店舗に足を運んで質感やサイズ感を確かめて買った方がいいです！！！ほんとに！ ただ、ウエスト以外の作りはテーパードがかかっていってシルエットがとても綺麗。また、内側もトリコット生地なので着心地は良いです。夏場だと少し暑いかもしれません。 最後にこれを買うのを迷ってる方は絶対に店舗で確認してからの方がいいわさ。",
+        "best_rating": "5.0",
+        "rating_value": "2"
+      },
+      {
+        "author_name": "happy77",
+        "date_published": "2024-04-22",
+        "body": "５０年以上前の憧れの選手名ジャージ！６０歳のオジサンにはどうかなと思いつつ上下を購入しましたが着心地も良く、見栄えもカッコ良くお洒落で最高です！！",
+        "best_rating": "5.0",
+        "rating_value": "4"
+      },
+      {
+        "author_name": "MGarrix96",
+        "date_published": "2024-08-13",
+        "body": "通常のトラックパンツの裾の処理やシルエットが気に入らず、しっかりと細身のスタイルを求めていた自分にピッタリの商品でした。テーパードが効いており細身＆足長感が出せます。生地が厚めなので夏には少し暑いですが、満足しています。",
+        "best_rating": "5.0",
+        "rating_value": "5"
+      },
+      {
+        "author_name": "zerozerozero",
+        "date_published": "2024-03-04",
+        "body": "ネットでは2XLが最適と表示されていましたが、店頭で試着させて頂いたところボトムがL、上着がXLでちょうど良い感じでした。欲しい色が店頭に無かったためネットで購入。生地の素材は非常にやわらかくて気持ちいいです。★ひとつマイナスは、店舗によって在庫の有無がバラバラで購入に手間がかかったことが理由です。",
+        "best_rating": "5.0",
+        "rating_value": "4"
+      }
+    ],
+    "rating_senses": [
+      {
+        "type": "フィット感",
+        "value": "3.1 / 5"
+      },
+      {
+        "type": "丈感",
+        "value": "3.4 / 5"
+      },
+      {
+        "type": "品質",
+        "value": "3.7 / 5"
+      },
+      {
+        "type": "着心地",
+        "value": "4.4 / 5"
+      }
+    ]
+  },
+  {
+    "name": "アディカラー ピケ サッカー長袖Tシャツ",
+    "model_code": "KLM64",
+    "article_code": "IZ2446",
+    "price": {
+      "with_tax": "9,900",
+      "without_tax": "9000.000000",
+      "discount_type": "proper"
+    },
+    "url": "https://shop.adidas.jp/f/v2/web/pub/products/article/IZ2446/",
+    "images": [
+      "https://shop.adidas.jp/photo/IZ/IZ2446/zz-IZ2446-on_model-standard_view-6suGN3bAby.jpg",
+      "https://shop.adidas.jp/photo/IZ/IZ2446/zz-IZ2446-on_model-back_view-FRBgmJ9JHB.jpg",
+      "https://shop.adidas.jp/photo/IZ/IZ2446/zz-IZ2446-on_model-walking_view-idPudHIb4v.jpg",
+      "https://shop.adidas.jp/photo/IZ/IZ2446/zz-IZ2446-3d_torso-front_center_view-kNxXhoJJIp.jpg",
+      "https://shop.adidas.jp/photo/IZ/IZ2446/zz-IZ2446-on_model-detail_view_1-hQi6QHrAL9.jpg",
+      "https://shop.adidas.jp/photo/IZ/IZ2446/zz-IZ2446-on_model-detail_view_2-qaSkXDcdNV.jpg"
+    ],
+    "breadcrumb": "メンズ / ウェア・服 / トップス / Tシャツ / オリジナルス / アディカラー / アディカラー ピケ サッカー長袖Tシャツ",
+    "breadcrumbs": [
+      {
+        "label": "メンズ",
+        "search_url": "https://shop.adidas.jp/item/?gender=mens"
+      },
+      {
+        "label": "ウェア・服",
+        "search_url": "https://shop.adidas.jp/item/?gender=mens\u0026category=wear"
+      },
+      {
+        "label": "トップス",
+        "search_url": "https://shop.adidas.jp/item/?gender=mens\u0026category=wear\u0026group=tops"
+      },
+      {
+        "label": "Tシャツ",
+        "search_url": "https://shop.adidas.jp/item/?gender=mens\u0026category=wear\u0026group=tops\u0026type=t_shirts"
+      },
+      {
+        "label": "オリジナルス",
+        "search_url": "https://shop.adidas.jp/item/?gender=mens\u0026brand=originals\u0026category=wear\u0026group=tops\u0026type=t_shirts"
+      },
+      {
+        "label": "アディカラー",
+        "search_url": "https://shop.adidas.jp/item/?gender=mens\u0026brand=originals\u0026collection=adicolor\u0026category=wear\u0026group=tops\u0026type=t_shirts"
+      },
+      {
+        "label": "アディカラー ピケ サッカー長袖Tシャツ",
+        "search_url": "https://shop.adidas.jp/model/KLM64/"
+      }
+    ],
+    "kws": "ウェア・服, トップス, Tシャツ, オリジナルス, アディカラー, 長袖, KLM64",
+    "categories": [
+      {
+        "label": "ウェア・服",
+        "link": "https://shop.adidas.jp/item/?category=wear"
+      },
+      {
+        "label": "トップス",
+        "link": "https://shop.adidas.jp/item/?group=tops"
+      },
+      {
+        "label": "Tシャツ",
+        "link": "https://shop.adidas.jp/item/?type=t_shirts"
+      },
+      {
+        "label": "オリジナルス",
+        "link": "https://shop.adidas.jp/item/?brand=originals"
+      },
+      {
+        "label": "アディカラー",
+        "link": "https://shop.adidas.jp/item/?collection=adicolor"
+      },
+      {
+        "label": "長袖",
+        "link": "https://shop.adidas.jp/item/?sleeve_length=long_sleeve"
+      },
+      {
+        "label": "KLM64",
+        "link": "https://shop.adidas.jp/model/KLM64/"
+      }
+    ],
+    "size_choice": {
+      "available_size": "XS, S, M, L, XL",
+      "sense_of_the_size": "0.0"
+    },
+    "coordinates": null,
+    "description": {
+      "title": "レトロなサッカースタイルの長袖Tシャツ。",
+      "general": "この長袖Tシャツを着てスタイルアップしよう。アーカイブのジャージーをヒントに、鮮やかな配色をあしらった大胆なスタイリングで、今どきのムードに仕上げている。肌触りの良いジャカード生地とリブ仕上げのディテールが、快適な着心地をもたらし、コントラストの効いたスリーストライプスとトレフォイルのロゴが、クラシックなアディダスらしさを添えている。このモダンな定番アイテムに、ジーンズやトラックパンツを合わせて、自分らしいスタイルを見つけよう。",
+      "breads": [
+        "レギュラーフィット",
+        "襟付きのリブ仕上げのVネック",
+        "ポリエステル100%（ジャカード）",
+        "リブ仕上げのカフ"
+      ]
+    },
+    "skus": [
+      {
+        "size_name": "XS",
+        "code": "",
+        "status": {
+          "is_stock": true,
+          "is_stock_store": false,
+          "is_sold_out": false
+        }
+      },
+      {
+        "size_name": "S",
+        "code": "",
+        "status": {
+          "is_stock": true,
+          "is_stock_store": false,
+          "is_sold_out": false
+        }
+      },
+      {
+        "size_name": "M",
+        "code": "",
+        "status": {
+          "is_stock": true,
+          "is_stock_store": false,
+          "is_sold_out": false
+        }
+      },
+      {
+        "size_name": "L",
+        "code": "",
+        "status": {
+          "is_stock": true,
+          "is_stock_store": false,
+          "is_sold_out": false
+        }
+      },
+      {
+        "size_name": "XL",
+        "code": "",
+        "status": {
+          "is_stock": true,
+          "is_stock_store": false,
+          "is_sold_out": false
+        }
+      },
+      {
+        "size_name": "2XL",
+        "code": "",
+        "status": {
+          "is_stock": false,
+          "is_stock_store": false,
+          "is_sold_out": true
+        }
+      },
+      {
+        "size_name": "3XL",
+        "code": "",
+        "status": {
+          "is_stock": false,
+          "is_stock_store": false,
+          "is_sold_out": true
+        }
+      }
+    ],
+    "size_charts": [
+      {
+        "size": "XS",
+        "measurements": [
+          {
+            "type": "胸囲",
+            "value": "99cm"
+          },
+          {
+            "type": "うしろ着丈",
+            "value": "68cm"
+          },
+          {
+            "type": "袖丈",
+            "value": "65cm"
+          },
+          {
+            "type": "袖口幅",
+            "value": "19cm"
+          }
+        ]
+      },
+      {
+        "size": "S",
+        "measurements": [
+          {
+            "type": "うしろ着丈",
+            "value": "69cm"
+          },
+          {
+            "type": "袖丈",
+            "value": "65cm"
+          },
+          {
+            "type": "袖口幅",
+            "value": "19cm"
+          },
+          {
+            "type": "胸囲",
+            "value": "102cm"
+          }
+        ]
+      },
+      {
+        "size": "M",
+        "measurements": [
+          {
+            "type": "うしろ着丈",
+            "value": "70cm"
+          },
+          {
+            "type": "袖丈",
+            "value": "65cm"
+          },
+          {
+            "type": "袖口幅",
+            "value": "20cm"
+          },
+          {
+            "type": "胸囲",
+            "value": "107cm"
+          }
+        ]
+      },
+      {
+        "size": "L",
+        "measurements": [
+          {
+            "type": "胸囲",
+            "value": "109cm"
+          },
+          {
+            "type": "うしろ着丈",
+            "value": "70cm"
+          },
+          {
+            "type": "袖丈",
+            "value": "65cm"
+          },
+          {
+            "type": "袖口幅",
+            "value": "20cm"
+          }
+        ]
+      },
+      {
+        "size": "XL",
+        "measurements": [
+          {
+            "type": "うしろ着丈",
+            "value": "71cm"
+          },
+          {
+            "type": "袖丈",
+            "value": "65cm"
+          },
+          {
+            "type": "袖口幅",
+            "value": "20cm"
+          },
+          {
+            "type": "胸囲",
+            "value": "114cm"
+          }
+        ]
+      },
+      {
+        "size": "2XL",
+        "measurements": [
+          {
+            "type": "胸囲",
+            "value": "120cm"
+          },
+          {
+            "type": "うしろ着丈",
+            "value": "73cm"
+          },
+          {
+            "type": "袖丈",
+            "value": "65cm"
+          },
+          {
+            "type": "袖口幅",
+            "value": "20cm"
+          }
+        ]
+      },
+      {
+        "size": "3XL",
+        "measurements": [
+          {
+            "type": "胸囲",
+            "value": "127cm"
+          },
+          {
+            "type": "うしろ着丈",
+            "value": "74cm"
+          },
+          {
+            "type": "袖丈",
+            "value": "65cm"
+          },
+          {
+            "type": "袖口幅",
+            "value": "21cm"
+          }
+        ]
+      }
+    ],
+    "review_count": "0",
+    "reviews": null,
+    "rating_senses": null
+  }
+]
