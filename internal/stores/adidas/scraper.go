@@ -101,7 +101,7 @@ func (s *scraper) GetProductsDetail(productsURL []string) ([]dto.Product, error)
 			return
 		}
 
-		product := pr.ToProduct(r.Request.URL.String())
+		product := pr.ToProduct()
 		products = append(products, product)
 
 		// Increment the counter and display progress

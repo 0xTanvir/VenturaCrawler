@@ -111,7 +111,9 @@ func (plr ProductListResponse) CurrentPage() int {
 	return pageNo
 }
 
-func (pr ProductResponse) ToProduct(url string) dto.Product {
+func (pr ProductResponse) ToProduct() dto.Product {
+	rating, recommendedRate, ratingSense := GetRatingSense(pr.Product.Article.ArticleCode, pr.Product.Model.ModelCode)
+
 	return dto.Product{
 		Name:        pr.Product.Article.Name,
 		ModelCode:   pr.Product.Model.ModelCode,
@@ -121,21 +123,23 @@ func (pr ProductResponse) ToProduct(url string) dto.Product {
 			WithoutTax:   strconv.FormatFloat(pr.Product.Article.Price.Current.WithoutTax, 'f', 6, 64),
 			DiscountType: pr.Product.Article.Price.DiscountType,
 		},
-		URL:          url,
-		Images:       pr.Images(),
-		Breadcrumb:   pr.Breadcrumb(),
-		Breadcrumbs:  pr.Breadcrumbs(),
-		KWs:          pr.KWs(),
-		Categories:   pr.Categories(),
-		SizeChoice:   pr.SizeChoice(),
-		Coordinates:  pr.Coordinates(),
-		Description:  pr.Description(),
-		Skus:         pr.Skus(),
-		SizeCharts:   GetSizeCharts(pr.Product.Model.ModelCode),
-		Technologies: pr.Technologies(),
-		ReviewCount:  fmt.Sprintf("%d", pr.Product.Model.Review.ReviewCount),
-		Reviews:      pr.Reviews(),
-		RatingSenses: GetRatingSense(pr.Product.Article.ArticleCode, pr.Product.Model.ModelCode),
+		URL:             fmt.Sprintf("%s/products/%s", baseURL, pr.Product.Article.ArticleCode),
+		Images:          pr.Images(),
+		Breadcrumb:      pr.Breadcrumb(),
+		Breadcrumbs:     pr.Breadcrumbs(),
+		KWs:             pr.KWs(),
+		Categories:      pr.Categories(),
+		SizeChoice:      pr.SizeChoice(),
+		Coordinates:     pr.Coordinates(),
+		Description:     pr.Description(),
+		Skus:            pr.Skus(),
+		SizeCharts:      GetSizeCharts(pr.Product.Model.ModelCode),
+		Technologies:    pr.Technologies(),
+		ReviewCount:     fmt.Sprintf("%d", pr.Product.Model.Review.ReviewCount),
+		Reviews:         pr.Reviews(),
+		Rating:          rating,
+		RecommendedRate: recommendedRate,
+		RatingSenses:    ratingSense,
 	}
 }
 

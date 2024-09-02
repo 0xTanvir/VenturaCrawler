@@ -6,6 +6,9 @@ import (
 	"os"
 
 	"vcrawler/internal/definition"
+	"vcrawler/internal/dto"
+
+	"github.com/gocarina/gocsv"
 )
 
 type crawler struct {
@@ -29,6 +32,25 @@ func (c *crawler) Start(store definition.Store) error {
 	if err != nil {
 		return err
 	}
+
+	// Convert the products to ProductCsv
+	var productsCsv []dto.ProductCsv
+	for _, product := range products {
+		productsCsv = append(productsCsv, product.ToCsv())
+	}
+
+	csvFile, err := os.OpenFile("products.csv", os.O_RDWR|os.O_CREATE, os.ModePerm)
+	if err != nil {
+		return err
+	}
+	defer csvFile.Close()
+
+	err = gocsv.MarshalFile(&productsCsv, csvFile)
+	if err != nil {
+		return err
+	}
+
+	slog.Info("products data saved to", "file", "products.csv")
 
 	// Convert the products data to JSON format
 	productsJSON, err := json.MarshalIndent(products, "", "  ")

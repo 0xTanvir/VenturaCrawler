@@ -16,10 +16,12 @@ const (
 	ratingSenseURL = "https://adidasjp.ugc.bazaarvoice.com/7896-ja_jp/%s/reviews.djs?format=embeddedhtml&productattribute_itemKcod=%s"
 )
 
-func GetRatingSense(articleCode, modelCode string) []dto.RatingSense {
+func GetRatingSense(articleCode, modelCode string) (string, string, []dto.RatingSense) {
 	var (
-		c            *colly.Collector
-		ratingSenses []dto.RatingSense
+		c               *colly.Collector
+		ratingSenses    []dto.RatingSense
+		rating          string
+		recommendedRate string
 	)
 
 	c = helpers.GetCollector()
@@ -33,9 +35,17 @@ func GetRatingSense(articleCode, modelCode string) []dto.RatingSense {
 		// Load the cleaned string into goquery for scraping
 		doc, err := goquery.NewDocumentFromReader(strings.NewReader(cleanedString))
 		if err != nil {
-			fmt.Println("Error loading HTML:", err)
-			return
+			slog.Error("error at loading document", "error", err)
+			return // Return to avoid further processing
 		}
+
+		// Get the rating value
+		// example:  <span itemprop="ratingValue" class="BVRRNumber BVRRRatingNumber">4</span>
+		rating = doc.Find("span[itemprop=ratingValue]").Text()
+
+		// Get the recommanded rate
+		// example: <span class="BVRRBuyAgainPercentage"> <span class="BVRRNumber">86%</span> </span>
+		recommendedRate = doc.Find("span.BVRRBuyAgainPercentage span.BVRRNumber").Text()
 
 		// Scrape the data
 		doc.Find("div.BVRRRatingEntry").Each(func(i int, s *goquery.Selection) {
@@ -62,13 +72,13 @@ func GetRatingSense(articleCode, modelCode string) []dto.RatingSense {
 	err := c.Visit(fmt.Sprintf(ratingSenseURL, modelCode, articleCode))
 	if err != nil {
 		slog.Error("error at visiting rating sense", "error", err)
-		return nil
+		return rating, recommendedRate, nil
 	}
 
 	// Wait until all asynchronous callbacks are complete
 	c.Wait()
 
-	return ratingSenses
+	return rating, recommendedRate, ratingSenses
 }
 
 // cleanResponse performs cleaning operations on the raw response string
